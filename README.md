@@ -22,14 +22,14 @@ An advanced maze-solving web application built with **Next.js**, featuring inter
 
 Here’s a demo video to see the **Intelligent Maze Solver** in action:
 
-https://github.com/user-attachments/assets/ddbdd803-d098-44af-b552-f22ee9962901
+https://github.com/user-attachments/assets/eb92ce4f-f95e-46d2-ad5b-a75f9d669895
 
 ## 📸 Screenshots
 Here are some screenshots of the app in action:
 
-![New](https://github.com/user-attachments/assets/e92079a1-d23e-40c0-920e-c78709d99b29)
+![New](https://github.com/user-attachments/assets/ced5cde5-d748-42a7-ad18-a400d665691d)
 
-![Solved](https://github.com/user-attachments/assets/535dfc37-55b0-4715-a5c2-f08e44505614)
+![Solved](https://github.com/user-attachments/assets/634234c9-5802-44c9-a882-32d90d1e4ef8)
 
 
 ## 🚀 How to Use
