@@ -18,6 +18,18 @@ An advanced maze-solving web application built with **Next.js**, featuring inter
 - **TypeScript**: Ensuring robust and type-safe development.
 - **Tailwind CSS**: For responsive and beautiful UI styling.
 
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amir2628/MazeSolver.git
+2. Install dependencies:
+    ```bash
+    npm install
+3. Start the development server:
+    ```bash
+    npm run dev
+4. Open the app in your browser at http://localhost:3000.
+
 ## 🎥 Demo
 
 Here’s a demo video to see the **Intelligent Maze Solver** in action:
@@ -30,16 +42,3 @@ Here are some screenshots of the app in action:
 ![New](https://github.com/user-attachments/assets/ced5cde5-d748-42a7-ad18-a400d665691d)
 
 ![Solved](https://github.com/user-attachments/assets/634234c9-5802-44c9-a882-32d90d1e4ef8)
-
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/amir2628/MazeSolver.git
-2. Install dependencies:
-    ```bash
-    npm install
-3. Start the development server:
-    ```bash
-    npm run dev
-4. Open the app in your browser at http://localhost:3000.
